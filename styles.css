@@ -1,0 +1,225 @@
+.div1{
+  border-radius: 0 20px 0 20px;
+  background: linear-gradient(blue,lightblue);
+  width: 20px;
+  height: 100px;
+  transform: rotate(0deg);
+  position: relative;
+  left: 50px;
+  opacity: 90%;
+  display: inline-block;
+}
+.div2{
+  border-radius: 0 20px 0  20px;
+  background: linear-gradient(red,pink);
+  width: 20px;
+  height: 100px;
+  transform: rotate(90deg);
+  position: absolute;
+  left: 50px;
+  opacity: 90%;
+  display: inline-block;
+}
+.div3{
+  border-radius: 0 20px 0  20px;
+  background: linear-gradient(yellow, lightyellow);
+  width: 20px;
+  height: 100px;
+  transform: rotate(40deg);
+  position: absolute;
+  left: 50px;
+  opacity: 90%;
+  display: inline-block;
+}
+.div4{
+  border-radius: 0 20px 0  20px;
+  background: linear-gradient(maroon,purple);
+  width: 20px;
+  height: 100px;
+  transform: rotate(135deg);
+  position: absolute;
+  left: 50px;
+  opacity: 90%;
+  display: inline-block;
+}
+.task1{
+  background-color: black;
+  position: relative;
+  width: 120px;
+  margin-left: auto;
+  margin-right: auto;
+  padding-top: 4px;
+}
+.t1h
+{
+  background-color: black;
+  color: orange;
+  padding-left: 10px;
+  margin:0px;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  text-align: center;
+}
+.t1{
+  background-color: black;
+  padding-bottom: 50px;
+}
+
+
+
+
+.t2h{
+  text-align: center;
+  background-color: orange;
+  padding-top: 1px;
+  padding-bottom: 1px;
+}
+.t2{
+  background-color: orange;
+}
+
+
+.sq1{
+  background-color: red;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+}
+.ov1{
+  background-color: lightgray;
+  width: 50px;
+  height: 50px;
+  border-radius: 1000px 0 1000px 0;
+  display: inline-block;
+  position: absolute;
+  top: 50px;
+  left: 50px;
+}
+.sq2{
+  background-color: lightgray;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+  left: 100px;
+}
+.ov2{
+  background-color: navy;
+  width: 50px;
+  height: 50px;
+  border-radius: 1000px 0 1000px 0;
+  display: inline-block;
+  position: absolute;
+  top: 50px;
+  left: 100px;
+  transform: rotate(90deg);
+}
+.sq3{
+  background-color: gray;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+  top: 100px;
+}
+.ov3{
+  background-color: red;
+  width: 50px;
+  height: 50px;
+  border-radius: 1000px 0 1000px 0;
+  display: inline-block;
+  position: absolute;
+  top: 100px;
+  left: 50px;
+  transform: rotate(90deg);
+}
+.sq4{
+  background-color: navy;
+  width: 100px;
+  height: 100px;
+  display: inline-block;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+.ov4{
+  background-color: gray;
+  width: 50px;
+  height: 50px;
+  border-radius: 1000px 0 1000px 0;
+  display: inline-block;
+  position: absolute;
+  top: 100px;
+  left: 100px;
+}
+
+
+.task2{
+  margin-left: auto;
+  margin-right: auto;
+  position: relative;
+  width: 200px;
+  height: 200px;
+  padding-bottom: 50px;
+}
+
+.t3h{
+  background-color: black;
+  color: orange;
+  text-align: center;
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+.t3{
+  background-color: black;
+  color: white;
+  text-align: center;
+}
+thead
+{
+  background-color:dimgray;
+}
+
+
+body{
+  margin: 0;
+  font-family: "karma", serif;
+}
+table, th, td{
+  border:2px solid white;
+  border-collapse: collapse;
+  color: black;
+}
+th,td{
+  padding-right: 10px;
+  padding-left: 10px;
+  padding-top: 3px;
+  padding-bottom: 3px;
+}
+th{
+  color: white;
+}
+.marketing{
+  background-color: skyblue;
+}
+.sales{
+  background-color: lightgreen;
+}
+.product{
+  background-color: pink;
+}
+
+.subd{
+  padding: 0px;
+  margin:0px;
+  border-width: 0px;
+}
+.subt{
+  width: 100%;
+  border-width: 0px;
+}
+.task3{
+  padding-bottom: 50px;
+  display: inline-block;
+}
